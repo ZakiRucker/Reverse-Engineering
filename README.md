@@ -62,6 +62,7 @@ A curated list of awesome reversing resources
 * [Offensive Security](https://www.offensive-security.com/information-security-training/)
 * [Corelan Training](https://www.corelan-training.com/)
 * [Offensive and Defensive Android Reversing](https://github.com/rednaga/training/raw/master/DEFCON23/O%26D%20-%20Android%20Reverse%20Engineering.pdf)
+* [Reverse Engineering Malware 101](https://securedorg.github.io/RE101/)
 
 ## Practice
 
