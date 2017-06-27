@@ -28,7 +28,7 @@ A curated list of awesome reversing resources
 
 * [The IDA Pro Book](http://amzn.com/1593272898)
 * [Reverse Engineering for Beginners](http://beginners.re/)
-* [The Art of Assembly Language](http://amzn.com/1593272073)
+* [Assembly Language for Intel-Based Computers (5th Edition) ](http://a.co/4OR6I9U)
 * [Practical Reverse Engineering](http://amzn.com/B00IA22R2Y)
 * [Reversing: Secrets of Reverse Engineering](http://amzn.com/B007032XZK)
 * [Practical Malware Analysis](http://amzn.com/1593272901)
@@ -43,6 +43,9 @@ A curated list of awesome reversing resources
 * [Windows Internals Part 1](http://amzn.com/0735648735) [Part 2](http://amzn.com/0735665877)
 * [Inside Windows Debugging](http://amzn.com/0735662789)
 * [iOS Reverse Engineering](https://github.com/iosre/iOSAppReverseEngineering)
+* [The Shellcoders Handbook](http://a.co/6H55943)
+* [A Guide to Kernel Exploitation](http://a.co/aM4cENn)
+* [Agner's software optimization resources](http://www.agner.org/optimize/)
 
 ## Courses
 
