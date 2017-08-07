@@ -115,6 +115,7 @@ A curated list of awesome reversing resources
 
 *Disassemblers*
 
+* [JEB](https://www.pnfsoftware.com/jeb2/)
 * [IDA Pro](https://www.hex-rays.com/products/ida/index.shtml)
 * [Binary Ninja](https://binary.ninja/)
 * [Radare](http://www.radare.org/r/)
