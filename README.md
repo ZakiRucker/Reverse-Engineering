@@ -5,6 +5,7 @@ A curated list of awesome reversing resources
 - [Awesome Reversing](#awesome-reversing)
     - [Books](#books)
     - [Courses](#courses)
+    - [Channels](#channels)
     - [Practice](#practice)
     - [Hex Editors](#hex-editors)
     - [Binary Format](#binary-format)
@@ -46,6 +47,10 @@ A curated list of awesome reversing resources
 * [The Shellcoders Handbook](http://a.co/6H55943)
 * [A Guide to Kernel Exploitation](http://a.co/aM4cENn)
 * [Agner's software optimization resources](http://www.agner.org/optimize/)
+* [Learning Malware Analysis](https://www.amazon.com/Learning-Malware-Analysis-techniques-investigate/)
+* [Binary Analysis](https://nostarch.com/binaryanalysis)
+* [Rootkits and Bootkits](https://nostarch.com/rootkits)
+* [Serious Cryptography](https://nostarch.com/seriouscrypto)
 
 ## Courses
 
@@ -57,16 +62,28 @@ A curated list of awesome reversing resources
 * [Binary Auditing Course](http://www.binary-auditing.com/)
 * [TiGa's Video Tutorials](http://www.woodmann.com/TiGa/)
 * [Legend of Random](https://tuts4you.com/download.php?list.97)
+* [Practical Malware Analysis](https://samsclass.info/126/126_S17.shtml)
 * [Modern Binary Exploitation](http://security.cs.rpi.edu/courses/binexp-spring2015/)
 * [RPISEC Malware Course](https://github.com/RPISEC/Malware)
-* [SANS FOR 610 GREM](https://www.sans.org/course/reverse-engineering-malware-malware-analysis-tools-techniques/Type/asc/all)
-* [REcon Training](https://recon.cx/2015/training.html)
-* [Blackhat Training](https://www.blackhat.com/us-16/training/)
-* [Offensive Security](https://www.offensive-security.com/information-security-training/)
-* [Corelan Training](https://www.corelan-training.com/)
-* [Offensive and Defensive Android Reversing](https://github.com/rednaga/training/raw/master/DEFCON23/O%26D%20-%20Android%20Reverse%20Engineering.pdf)
-* [Reverse Engineering Malware 101](https://securedorg.github.io/RE101/)
+* [begin.re](https://www.begin.re/)
+* [RE101](https://securedorg.github.io/RE101/)
+* [RE102](https://securedorg.github.io/RE102/)
 * [ARM Assembly Basics](https://azeria-labs.com/writing-arm-assembly-part-1/)
+* [Offensive and Defensive Android Reversing](https://github.com/rednaga/training/raw/master/DEFCON23/O%26D%20-%20Android%20Reverse%20Engineering.pdf)
+
+## Channels
+
+*Binary Analysis Channels*
+
+* [OALabs](https://www.youtube.com/channel/UC--DwaiMV-jtO-6EvmKOnqg)
+* [MalwareTech](https://www.youtube.com/channel/UCLDnEn-TxejaDB8qm2AUhHQ)
+* [GynvaelEN](https://www.youtube.com/user/GynvaelEN)
+* [VirusBtn](https://www.youtube.com/user/virusbtn)
+* [Intro to WinDBG](https://www.youtube.com/playlist?list=PLhx7-txsG6t6n_E2LgDGqgvJtCHPL7UFu)
+* [hasherzade](https://www.youtube.com/channel/UCNWVswPNgn5kutPNa5sprkg)
+* [Colin Hardy](https://www.youtube.com/channel/UCND1KVdVt8A580SjdaS4cZg)
+* [MalwareAnalysisHedgehog](https://www.youtube.com/channel/UCVFXrUwuWxNlm6UNZtBLJ-A)
+
 
 ## Practice
 
@@ -106,23 +123,27 @@ A curated list of awesome reversing resources
 * [Detect It Easy](http://ntinfo.biz/)
 * [PeStudio](http://www.winitor.com/)
 * [PEiD](https://tuts4you.com/download.php?view.398)
+* [PPEE](https://www.mzrst.com/)
 * [MachoView](https://github.com/gdbinit/MachOView)
 * [nm](https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man1/nm.1.html) - View Symbols
 * [file](https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man1/file.1.html) - File information
 * [codesign](https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man1/codesign.1.html) - Code signing information usage: codesign -dvvv filename
 
-## Disassemblers
+## Disassemblers/Decompilers
 
-*Disassemblers*
+*Disassemblers/Decompilers*
 
-* [JEB](https://www.pnfsoftware.com/jeb2/)
+* [Ghidra](https://ghidra-sre.org/)
 * [IDA Pro](https://www.hex-rays.com/products/ida/index.shtml)
 * [Binary Ninja](https://binary.ninja/)
+* [JEB](https://www.pnfsoftware.com/jeb2/)
 * [Radare](http://www.radare.org/r/)
 * [Hopper](http://hopperapp.com/)
 * [Capstone](http://www.capstone-engine.org/)
 * [objdump](http://linux.die.net/man/1/objdump)
 * [fREedom](https://github.com/cseagle/fREedom)
+* [Retdec](https://retdec.com/)
+* [Snowman](https://derevenets.com/)
 
 ## Binary Analysis
 
@@ -221,6 +242,7 @@ A curated list of awesome reversing resources
 * [IDA Plugin Contest](https://www.hex-rays.com/contests/)
 * [onehawt IDA Plugin List](https://github.com/onethawt/idaplugins-list)
 * [pefile Python Libray](https://github.com/erocarrera/pefile)
+* [ghidra ninja](https://github.com/ghidraninja/ghidra_scripts)
 
 ## Android
 
@@ -237,6 +259,7 @@ A curated list of awesome reversing resources
 *Yara Resources*
 
 * [Yara docs](http://yara.readthedocs.org/en/v3.4.0/writingrules.html)
-* [Cheatsheet](https://gist.github.com/0xtyh/eeabc765e9befad9b80a)
+* [Cheatsheet](https://gist.github.com/tylerha97/eeabc765e9befad9b80a)
 * [yarGen](https://github.com/Neo23x0/yarGen)
+* [yabin](https://github.com/AlienVault-OTX/yabin)
 * [Yara First Presentation](/Users/thalfpop/Downloads/first_2014_-_schuster-_andreas_-_yara_basic_and_advanced_20140619.pdf)
