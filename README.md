@@ -47,7 +47,7 @@ A curated list of awesome reversing resources
 * [The Shellcoders Handbook](http://a.co/6H55943)
 * [A Guide to Kernel Exploitation](http://a.co/aM4cENn)
 * [Agner's software optimization resources](http://www.agner.org/optimize/)
-* [Learning Malware Analysis](https://www.amazon.com/Learning-Malware-Analysis-techniques-investigate/)
+* [Learning Malware Analysis](https://www.amazon.com/Learning-Malware-Analysis-techniques-investigate/dp/1788392507/)
 * [Binary Analysis](https://nostarch.com/binaryanalysis)
 * [Rootkits and Bootkits](https://nostarch.com/rootkits)
 * [Serious Cryptography](https://nostarch.com/seriouscrypto)
