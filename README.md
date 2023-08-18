@@ -28,8 +28,9 @@ A curated list of awesome reversing resources
 *Reverse Engineering Books*
 
 * [The IDA Pro Book](https://nostarch.com/idapro2.htm)
+* [The Beginner's Guide to IDA Python](https://leanpub.com/IDAPython-Book)
 * [Reverse Engineering for Beginners](http://beginners.re/)
-* [Assembly Language for Intel-Based Computers (5th Edition) ](http://a.co/4OR6I9U)
+* [Assembly Language for Intel-Based Computers (5th Edition) ](https://www.goodreads.com/book/show/1450313.Assembly_Language_for_Intel_Based_Computers?ref=nav_sb_ss_1_28)
 * [Practical Reverse Engineering](https://www.wiley.com/en-us/Practical+Reverse+Engineering:+x86,+x64,+ARM,+Windows+Kernel,+Reversing+Tools,+and+Obfuscation-p-9781118787311)
 * [Reversing: Secrets of Reverse Engineering](https://www.wiley.com/en-us/Reversing%3A+Secrets+of+Reverse+Engineering+-p-9780764574818)
 * [Practical Malware Analysis](https://nostarch.com/malware)
@@ -57,40 +58,39 @@ A curated list of awesome reversing resources
 
 *Reverse Engineering Courses*
 
-* [Lenas Reversing for Newbies](https://tuts4you.com/download.php?list.17)
+* [Lenas Reversing for Newbies](https://forum.tuts4you.com/files/file/1307-lenas-reversing-for-newbies/)
 * [Open Security Training](http://opensecuritytraining.info/Training.html)
-* [Dr. Fu's Malware Analysis](http://fumalwareanalysis.blogspot.sg/p/malware-analysis-tutorials-reverse.html)
-* [Binary Auditing Course](http://www.binary-auditing.com/)
-* [TiGa's Video Tutorials](http://www.woodmann.com/TiGa/)
-* [Legend of Random](https://tuts4you.com/download.php?list.97)
-* [Practical Malware Analysis](https://samsclass.info/126/126_S17.shtml)
-* [Modern Binary Exploitation](http://security.cs.rpi.edu/courses/binexp-spring2015/)
-* [RPISEC Malware Course](https://github.com/RPISEC/Malware)
-* [begin.re](https://www.begin.re/)
-* [RE101](https://securedorg.github.io/RE101/)
-* [RE102](https://securedorg.github.io/RE102/)
-* [ARM Assembly Basics](https://azeria-labs.com/writing-arm-assembly-part-1/)
-* [Offensive and Defensive Android Reversing](https://github.com/rednaga/training/raw/master/DEFCON23/O%26D%20-%20Android%20Reverse%20Engineering.pdf)
+* [Dr. Fu's Malware Analysis Tutorials](http://fumalwareanalysis.blogspot.sg/p/malware-analysis-tutorials-reverse.html)
+* [Binary Auditing Training](https://github.com/Info-security/binary-auditing-training)
+* [Legend of Random](needs new link)
+* [Practical Malware Analysis](https://github.com/mikesiko/PracticalMalwareAnalysis-Labs)
+* [Modern Binary Exploitation](https://web.archive.org/web/20210710080726/http://security.cs.rpi.edu/courses/binexp-spring2015/)
+* [RPISEC Malware Analysis Course](https://github.com/RPISEC/Malware)
+* [Reverse Engineering for Beginners](https://www.begin.re/)
+* [RE101](https://github.com/zigzig122468/securedorg.github.io/blob/master/RE101.md)
+* [RE102](https://github.com/Rurik/securedorg.github.io/tree/master/RE102)
+* [ARM Assembly Basics](https://training.azeria-labs.com/arm-courses.html)
+
 
 ## Channels
 
 *Binary Analysis Channels*
 
 * [OALabs](https://www.youtube.com/channel/UC--DwaiMV-jtO-6EvmKOnqg)
-* [MalwareTech](https://www.youtube.com/channel/UCLDnEn-TxejaDB8qm2AUhHQ)
+* [MalwareTechVlog](https://www.youtube.com/channel/UCLDnEn-TxejaDB8qm2AUhHQ)
 * [GynvaelEN](https://www.youtube.com/user/GynvaelEN)
-* [VirusBtn](https://www.youtube.com/user/virusbtn)
+* [Virus Bulletin](https://www.youtube.com/user/virusbtn)
 * [Intro to WinDBG](https://www.youtube.com/playlist?list=PLhx7-txsG6t6n_E2LgDGqgvJtCHPL7UFu)
 * [hasherzade](https://www.youtube.com/channel/UCNWVswPNgn5kutPNa5sprkg)
-* [Colin Hardy](https://www.youtube.com/channel/UCND1KVdVt8A580SjdaS4cZg)
-* [MalwareAnalysisHedgehog](https://www.youtube.com/channel/UCVFXrUwuWxNlm6UNZtBLJ-A)
+* [cybercdh](https://www.youtube.com/channel/UCND1KVdVt8A580SjdaS4cZg)
+* [MalwareAnalysisForHedgehogs](https://www.youtube.com/channel/UCVFXrUwuWxNlm6UNZtBLJ-A)
 
 
 ## Practice
 
 *Practice Reverse Engineering.  Be careful with malware.*
 
-* [Crackmes.de](http://www.crackmes.de/)
+* [Crackmes.de](http://www.crackmes.one/)
 * [OSX Crackmes](https://reverse.put.as/crackmes/)
 * [ESET Challenges](http://www.joineset.com/jobs-analyst.html)
 * [Flare-on Challenges](http://flare-on.com/)
@@ -99,10 +99,9 @@ A curated list of awesome reversing resources
 * [xorpd Advanced Assembly Exercises](http://www.xorpd.net/pages/xchg_rax/snip_00.html)
 * [Virusshare.com](http://virusshare.com/)
 * [Contagio](http://contagiodump.blogspot.com/)
-* [Malware-Traffic-Analysis](https://malware-traffic-analysis.com/)
+* [Malware-Traffic-Analysis](https://www.malware-traffic-analysis.net)
 * [Malshare](http://malshare.com/)
-* [Malware Blacklist](http://www.malwareblacklist.com/showMDL.php)
-* [malwr.com](https://malwr.com/)
+* [malwr.com](https://malwr.co/)
 * [vxvault](http://vxvault.net/)
 
 ## Hex Editors
@@ -120,15 +119,12 @@ A curated list of awesome reversing resources
 *Binary Format Tools*
 
 * [CFF Explorer](http://www.ntcore.com/exsuite.php)
-* [Cerbero Profiler](http://cerbero.io/profiler/) // [Lite PE Insider](http://cerbero.io/peinsider/)
-* [Detect It Easy](http://ntinfo.biz/)
+* [Cerbero Profiler](http://cerbero.io/profiler/)
+* [Detect It Easy](https://horsicq.github.io)
 * [PeStudio](http://www.winitor.com/)
-* [PEiD](https://tuts4you.com/download.php?view.398)
+* [PEiD](https://www.aldeid.com/wiki/PEiD)
 * [PPEE](https://www.mzrst.com/)
 * [MachoView](https://github.com/gdbinit/MachOView)
-* [nm](https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man1/nm.1.html) - View Symbols
-* [file](https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man1/file.1.html) - File information
-* [codesign](https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man1/codesign.1.html) - Code signing information usage: codesign -dvvv filename
 
 ## Disassemblers/Decompilers
 
@@ -144,14 +140,13 @@ A curated list of awesome reversing resources
 * [objdump](http://linux.die.net/man/1/objdump)
 * [fREedom](https://github.com/cseagle/fREedom)
 * [Retdec](https://retdec.com/)
-* [Snowman](https://derevenets.com/)
+* [Snowman](https://tracxn.com/d/companies/snowman/__UT5m_dFEv0s1uPjSJD-shuyUAbb4EjGjA0kl-xgiIrE)
 
 ## Binary Analysis
 
 *Binary Analysis Resources*
 
 * [Mobius Resources](http://www.msreverseengineering.com/research/)
-* [z3](https://z3.codeplex.com/)
 * [bap](https://github.com/BinaryAnalysisPlatform/bap)
 * [angr](https://github.com/angr/angr)
 
@@ -161,16 +156,13 @@ A curated list of awesome reversing resources
 
 * [dnSpy](https://github.com/0xd4d/dnSpy)
 * [Bytecode Viewer](https://bytecodeviewer.com/)
-* [Bytecode Visualizer](http://www.drgarbage.com/bytecode-visualizer/)
 * [JPEXS Flash Decompiler](https://www.free-decompiler.com/flash/)
 
 ## Import Reconstruction
 
 *Import Reconstruction Tools*
 
-* [ImpRec](http://www.woodmann.com/collaborative/tools/index.php/ImpREC)
 * [Scylla](https://github.com/NtQuery/Scylla)
-* [LordPE](http://www.woodmann.com/collaborative/tools/images/Bin_LordPE_2010-6-29_3.9_LordPE_1.41_Deluxe_b.zip)
 
 ## Dynamic Analysis
 
@@ -184,29 +176,19 @@ A curated list of awesome reversing resources
 * [API Monitor](http://www.rohitab.com/apimonitor)
 * [iNetSim](http://www.inetsim.org/)
 * [Wireshark](https://www.wireshark.org/download.html)
-* [Fakenet](http://practicalmalwareanalysis.com/fakenet/)
 * [netzob](https://www.netzob.org/)
 * [Volatility](https://github.com/volatilityfoundation/volatility)
-* [Dumpit](http://www.moonsols.com/products/)
+* [Dumpit](https://eyehatemalwares.com/digital-forensics/memory-acquisition/dumpit/)
 * [LiME](https://github.com/504ensicsLabs/LiME)
 * [Cuckoo](https://www.cuckoosandbox.org/)
 * [Objective-See Utilities](https://objective-see.com/products.html)
-* [XCode Instruments](https://developer.apple.com/xcode/download/) - XCode Instruments for Monitoring Files and Processes [User Guide](https://developer.apple.com/library/watchos/documentation/DeveloperTools/Conceptual/InstrumentsUserGuide/index.html) 
 * [dtrace](http://dtrace.org/blogs/brendan/2011/10/10/top-10-dtrace-scripts-for-mac-os-x/) - sudo dtruss = strace [dtrace recipes](http://mfukar.github.io/2014/03/19/dtrace.html)
-* [fs_usage](https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man1/fs_usage.1.html) - report system calls and page faults related to filesystem activity in real-time.  File I/O: fs_usage -w -f filesystem 
-* [dmesg](https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man8/dmesg.8.html) - display the system message buffer
 
 ## Debugging
 
 *Debugging Tools*
 
-* [WinDbg](https://msdn.microsoft.com/en-us/windows/hardware/hh852365.aspx)
-* [OllyDbg v1.10](http://www.ollydbg.de/)
-* [OllyDbg v2.01](http://www.ollydbg.de/version2.html)
-* [OllySnD](https://tuts4you.com/download.php?view.2061)
-* [Olly Shadow](https://tuts4you.com/download.php?view.6)
-* [Olly CiMs](https://tuts4you.com/download.php?view.1206)
-* [Olly UST_2bg](https://tuts4you.com/download.php?view.1206)
+* [WinDbg](https://learn.microsoft.com/en-us/windows-hardware/drivers/debugger/debugger-download-tools)
 * [x64dbg](http://x64dbg.com/#start)
 * [gdb](https://www.gnu.org/software/gdb/)
 * [vdb](https://github.com/vivisect/vivisect)
@@ -238,8 +220,6 @@ A curated list of awesome reversing resources
 * [IDA Python Src](https://github.com/idapython/src)
 * [IDC Functions Doc](https://www.hex-rays.com/products/ida/support/idadoc/162.shtml)
 * [Using IDAPython to Make your Life Easier](http://researchcenter.paloaltonetworks.com/tag/idapython/)
-* [Introduction to IDA Python](https://tuts4you.com/download.php?view.3229)
-* [The Beginner's Guide to IDA Python](https://leanpub.com/IDAPython-Book)
 * [IDA Plugin Contest](https://www.hex-rays.com/contests/)
 * [onehawt IDA Plugin List](https://github.com/onethawt/idaplugins-list)
 * [pefile Python Libray](https://github.com/erocarrera/pefile)
@@ -250,17 +230,13 @@ A curated list of awesome reversing resources
 *Android tools*
 
 * [Android Developer Studio](http://developer.android.com/sdk/index.html)
-* [APKtool](http://ibotpeaches.github.io/Apktool/)
+* [APKtool](https://github.com/iBotPeaches/Apktool)
 * [dex2jar](https://github.com/pxb1988/dex2jar)
-* [Bytecode Viewer](https://bytecodeviewer.com/)
-* [IDA Pro](https://www.hex-rays.com/products/ida/index.shtml)
 
 ## Yara
 
 *Yara Resources*
 
 * [Yara docs](http://yara.readthedocs.org/en/v3.4.0/writingrules.html)
-* [Cheatsheet](https://gist.github.com/tylerha97/eeabc765e9befad9b80a)
 * [yarGen](https://github.com/Neo23x0/yarGen)
 * [yabin](https://github.com/AlienVault-OTX/yabin)
-* [Yara First Presentation](/Users/thalfpop/Downloads/first_2014_-_schuster-_andreas_-_yara_basic_and_advanced_20140619.pdf)
