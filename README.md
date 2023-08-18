@@ -40,7 +40,7 @@ A curated list of awesome reversing resources
 * [Fuzzing for Software Security](https://us.artechhouse.com/Fuzzing-for-Software-Security-Testing-and-Quality-Assurance-Second-Edition-P1930.aspx)
 * [Art of Software Security Assessment](http://amzn.com/0321444426)
 * [The Antivirus Hacker's Handbook](https://www.wiley.com/en-us/The+Antivirus+Hacker%27s+Handbook-p-9781119028789)
-* [The Rootkit Arsenal](http://amzn.com/144962636X)
+* [The Rootkit Arsenal](https://www.jblearning.com/catalog/productdetails/9781449626365)
 * [Windows Internals Part 1](https://www.microsoftpressstore.com/store/windows-internals-part-1-system-architecture-processes-9780735684188) [Part 2](https://www.microsoftpressstore.com/store/windows-internals-part-2-9780135462331)
 * [Inside Windows Debugging](https://www.microsoftpressstore.com/store/inside-windows-debugging-9780735662780)
 * [iOS Reverse Engineering](https://github.com/iosre/iOSAppReverseEngineering)
