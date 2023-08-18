@@ -28,6 +28,7 @@ A curated list of awesome reversing resources
 *Reverse Engineering Books*
 
 * [The IDA Pro Book](https://nostarch.com/idapro2.htm)
+* [The Ghidra Book](https://nostarch.com/GhidraBook)
 * [The Beginner's Guide to IDA Python](https://leanpub.com/IDAPython-Book)
 * [Reverse Engineering for Beginners](http://beginners.re/)
 * [Assembly Language for Intel-Based Computers (5th Edition) ](https://www.goodreads.com/book/show/1450313.Assembly_Language_for_Intel_Based_Computers?ref=nav_sb_ss_1_28)
