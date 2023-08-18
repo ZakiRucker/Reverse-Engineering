@@ -51,6 +51,7 @@ A curated list of awesome reversing resources
 * [Binary Analysis](https://nostarch.com/binaryanalysis)
 * [Rootkits and Bootkits](https://nostarch.com/rootkits)
 * [Serious Cryptography](https://nostarch.com/seriouscrypto)
+* [Hacker Disassembly Uncovered](https://www.goodreads.com/book/show/435687.Hacker_Disassembling_Uncovered?ac=1&from_search=true&qid=HUNC0IiiY0&rank=1)
 
 ## Courses
 
