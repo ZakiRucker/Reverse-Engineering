@@ -27,7 +27,7 @@ A curated list of awesome reversing resources
 
 *Reverse Engineering Books*
 
-* [The IDA Pro Book](http://amzn.com/1593272898)
+* [The IDA Pro Book]([https://nostarch.com/idapro2.htm])
 * [Reverse Engineering for Beginners](http://beginners.re/)
 * [Assembly Language for Intel-Based Computers (5th Edition) ](http://a.co/4OR6I9U)
 * [Practical Reverse Engineering](http://amzn.com/B00IA22R2Y)
