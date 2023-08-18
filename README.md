@@ -62,7 +62,6 @@ A curated list of awesome reversing resources
 * [Open Security Training](http://opensecuritytraining.info/Training.html)
 * [Dr. Fu's Malware Analysis Tutorials](http://fumalwareanalysis.blogspot.sg/p/malware-analysis-tutorials-reverse.html)
 * [Binary Auditing Training](https://github.com/Info-security/binary-auditing-training)
-* [Legend of Random](needs new link)
 * [Practical Malware Analysis](https://github.com/mikesiko/PracticalMalwareAnalysis-Labs)
 * [Modern Binary Exploitation](https://web.archive.org/web/20210710080726/http://security.cs.rpi.edu/courses/binexp-spring2015/)
 * [RPISEC Malware Analysis Course](https://github.com/RPISEC/Malware)
@@ -103,6 +102,7 @@ A curated list of awesome reversing resources
 * [Malshare](http://malshare.com/)
 * [malwr.com](https://malwr.co/)
 * [vxvault](http://vxvault.net/)
+* [Root Me Challenges](https://www.root-me.org/en/Challenges/Cracking)
 
 ## Hex Editors
 
