@@ -20,6 +20,7 @@ A curated list of awesome reversing resources
     - [Scripting](#scripting)
     - [Android](#android)
     - [Yara](#yara)
+    - [Obfuscators](#obfuscators)
 
 - - -
 
@@ -85,6 +86,7 @@ A curated list of awesome reversing resources
 * [hasherzade](https://www.youtube.com/channel/UCNWVswPNgn5kutPNa5sprkg)
 * [cybercdh](https://www.youtube.com/channel/UCND1KVdVt8A580SjdaS4cZg)
 * [MalwareAnalysisForHedgehogs](https://www.youtube.com/channel/UCVFXrUwuWxNlm6UNZtBLJ-A)
+* [nasm - RE (French)](https://www.youtube.com/c/nasmRE)
 
 
 ## Practice
@@ -156,6 +158,7 @@ A curated list of awesome reversing resources
 * [angr](https://github.com/angr/angr)
 * [Jadx](https://github.com/skylot/jadx)
 * [Smali](https://github.com/JesusFreke/smali)
+* [Triton](https://triton.quarkslab.com/)
 
 ## Bytecode Analysis
 
@@ -249,3 +252,11 @@ A curated list of awesome reversing resources
 * [Yara docs](http://yara.readthedocs.org/en/v3.4.0/writingrules.html)
 * [yarGen](https://github.com/Neo23x0/yarGen)
 * [yabin](https://github.com/AlienVault-OTX/yabin)
+
+## Obfuscators
+
+* [ollvm](https://github.com/obfuscator-llvm/obfuscator)
+* [movfuscator](https://github.com/Battelle/movfuscator)
+* [Tigress](http://tigress.cs.arizona.edu/)
+* [AD_1DA (metamorphism)](https://github.com/n4sm/AD_1DA)
+
