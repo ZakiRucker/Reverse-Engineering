@@ -54,6 +54,7 @@ A curated list of awesome reversing resources
 * [Rootkits and Bootkits](https://nostarch.com/rootkits)
 * [Serious Cryptography](https://nostarch.com/seriouscrypto)
 * [Hacker Disassembly Uncovered](https://www.goodreads.com/book/show/435687.Hacker_Disassembling_Uncovered?ac=1&from_search=true&qid=HUNC0IiiY0&rank=1)
+* [Attacking Network Protocols](https://nostarch.com/networkprotocols)
 
 ## Courses
 
@@ -104,6 +105,7 @@ A curated list of awesome reversing resources
 * [malwr.com](https://malwr.co/)
 * [vxvault](http://vxvault.net/)
 * [Root Me Challenges](https://www.root-me.org/en/Challenges/Cracking)
+* [theZoo](https://github.com/ytisf/theZoo)
 
 ## Hex Editors
 
