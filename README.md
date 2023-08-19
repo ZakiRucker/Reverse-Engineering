@@ -191,6 +191,7 @@ A curated list of awesome reversing resources
 * [Objective-See Utilities](https://objective-see.com/products.html)
 * [dtrace](http://dtrace.org/blogs/brendan/2011/10/10/top-10-dtrace-scripts-for-mac-os-x/) - sudo dtruss = strace [dtrace recipes](http://mfukar.github.io/2014/03/19/dtrace.html)
 * [Frida](https://frida.re/)
+* [BluePill](https://github.com/season-lab/bluepill) - Analysis and debugging of evasive malware and protected executables
 
 ## Debugging
 
