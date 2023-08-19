@@ -142,6 +142,7 @@ A curated list of awesome reversing resources
 * [fREedom](https://github.com/cseagle/fREedom)
 * [Retdec](https://retdec.com/)
 * [Snowman](https://tracxn.com/d/companies/snowman/__UT5m_dFEv0s1uPjSJD-shuyUAbb4EjGjA0kl-xgiIrE)
+* [dotPeek](https://www.jetbrains.com/decompiler/)
 
 ## Binary Analysis
 
@@ -150,6 +151,8 @@ A curated list of awesome reversing resources
 * [Mobius Resources](http://www.msreverseengineering.com/research/)
 * [bap](https://github.com/BinaryAnalysisPlatform/bap)
 * [angr](https://github.com/angr/angr)
+* [Jadx](https://github.com/skylot/jadx)
+* [Smali](https://github.com/JesusFreke/smali)
 
 ## Bytecode Analysis
 
@@ -184,6 +187,7 @@ A curated list of awesome reversing resources
 * [Cuckoo](https://www.cuckoosandbox.org/)
 * [Objective-See Utilities](https://objective-see.com/products.html)
 * [dtrace](http://dtrace.org/blogs/brendan/2011/10/10/top-10-dtrace-scripts-for-mac-os-x/) - sudo dtruss = strace [dtrace recipes](http://mfukar.github.io/2014/03/19/dtrace.html)
+* [Frida](https://frida.re/)
 
 ## Debugging
 
