@@ -72,6 +72,7 @@ A curated list of awesome reversing resources
 * [RE101](https://github.com/zigzig122468/securedorg.github.io/blob/master/RE101.md)
 * [RE102](https://github.com/Rurik/securedorg.github.io/tree/master/RE102)
 * [ARM Assembly Basics](https://training.azeria-labs.com/arm-courses.html)
+* [Binary Auditing Course](https://github.com/Info-security/binary-auditing-training)
 
 
 ## Channels
