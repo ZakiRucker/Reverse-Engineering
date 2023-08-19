@@ -56,6 +56,7 @@ A curated list of awesome reversing resources
 * [Serious Cryptography](https://nostarch.com/seriouscrypto)
 * [Hacker Disassembly Uncovered](https://www.goodreads.com/book/show/435687.Hacker_Disassembling_Uncovered?ac=1&from_search=true&qid=HUNC0IiiY0&rank=1)
 * [Attacking Network Protocols](https://nostarch.com/networkprotocols)
+* [radare2book](https://radare.gitbooks.io/radare2book)
 
 ## Courses
 
