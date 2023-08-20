@@ -1,8 +1,7 @@
 # awesome-reversing    
 
-A curated list of awesome reversing resources   
+A curated list of reverse engineering resources   
 
-- [Awesome Reversing](#awesome-reversing)
     - [Books](#books)
     - [Courses](#courses)
     - [Channels](#channels)
@@ -21,7 +20,6 @@ A curated list of awesome reversing resources
     - [Android](#android)
     - [Yara](#yara)
     - [Obfuscators](#obfuscators)
-
 - - -
 
 ## Books
