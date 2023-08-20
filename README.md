@@ -110,6 +110,7 @@ A curated list of awesome reversing resources
 * [vxvault](http://vxvault.net/)
 * [Root Me Challenges](https://www.root-me.org/en/Challenges/Cracking)
 * [theZoo](https://github.com/ytisf/theZoo)
+* [USB reversing](https://github.com/openrazer/openrazer/wiki/Reverse-Engineering-USB-Protocol)
 
 ## Hex Editors
 
