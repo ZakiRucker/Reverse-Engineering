@@ -1,7 +1,6 @@
-# awesome-reversing    
-
 A curated list of reverse engineering resources   
-- Resources:
+
+- Contents:
     - [Books](#books)
     - [Courses](#courses)
     - [Channels](#channels)
