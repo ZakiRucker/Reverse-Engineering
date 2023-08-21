@@ -29,7 +29,7 @@ A curated list of reverse engineering resources
 * [The Ghidra Book](https://nostarch.com/GhidraBook)
 * [The Beginner's Guide to IDA Python](https://leanpub.com/IDAPython-Book)
 * [Reverse Engineering for Beginners](http://beginners.re/)
-* [Assembly Language for Intel-Based Computers (5th Edition) ](https://www.goodreads.com/book/show/1450313.Assembly_Language_for_Intel_Based_Computers?ref=nav_sb_ss_1_28)
+* [Assembly Language for Intel-Based Computers (5th Edition) ](https://www.goodreads.com/book/show/7646341-assembly-language-for-intel-based-computers)
 * [Practical Reverse Engineering](https://www.wiley.com/en-us/Practical+Reverse+Engineering:+x86,+x64,+ARM,+Windows+Kernel,+Reversing+Tools,+and+Obfuscation-p-9781118787311)
 * [Reversing: Secrets of Reverse Engineering](https://www.wiley.com/en-us/Reversing%3A+Secrets+of+Reverse+Engineering+-p-9780764574818)
 * [Practical Malware Analysis](https://nostarch.com/malware)
