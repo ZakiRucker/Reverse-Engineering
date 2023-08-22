@@ -26,6 +26,7 @@ A curated list of reverse engineering resources
 *Reverse Engineering Books*
 
 * [Intel® 64 and IA-32 Architectures Software Developer Manuals](https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html) - The go to reference for Intel based assembly
+* [Learn The Architecture - A64 instruction set architecture](https://github.com/ZakiRucker/Reverse-Engineering/files/12404652/learn_the_architecture_-_a64_instruction_set_architecture_102374_0101_02_en.pdf)
 * [The IDA Pro Book](https://nostarch.com/idapro2.htm)
 * [The Ghidra Book](https://nostarch.com/GhidraBook)
 * [The Beginner's Guide to IDA Python](https://leanpub.com/IDAPython-Book)
