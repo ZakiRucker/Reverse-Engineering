@@ -5,6 +5,7 @@ A curated list of reverse engineering resources
     - [Courses](#courses)
     - [Channels](#channels)
     - [Practice](#practice)
+    - [Hardware](#hardware)
     - [Hex Editors](#hex-editors)
     - [Binary Format](#binary-format)
     - [Disassemblers](#disassemblersdecompilers)
@@ -110,6 +111,11 @@ A curated list of reverse engineering resources
 * [Root Me Challenges](https://www.root-me.org/en/Challenges/Cracking)
 * [theZoo](https://github.com/ytisf/theZoo)
 * [USB reversing](https://github.com/openrazer/openrazer/wiki/Reverse-Engineering-USB-Protocol)
+
+## Hardware
+*Tools to get software off of an embedded system*
+
+* [1BitSquared](https://1bitsquared.com)
 
 ## Hex Editors
 
