@@ -1,4 +1,4 @@
-A curated list of reverse engineering resources   
+This curated list of reverse engineering resources started as awesome-reversing forked from @tylerha97. I have updated some of the resources and will continue to curate into the future. Thanks, for visiting.
 
 - Contents:
     - [Books](#books)
