@@ -75,7 +75,6 @@ A curated list of reverse engineering resources
 * [ARM Assembly Basics](https://training.azeria-labs.com/arm-courses.html)
 * [Binary Auditing Course](https://github.com/Info-security/binary-auditing-training)
 
-
 ## Channels
 
 *Binary Analysis Channels*
@@ -88,8 +87,6 @@ A curated list of reverse engineering resources
 * [hasherzade](https://www.youtube.com/channel/UCNWVswPNgn5kutPNa5sprkg)
 * [cybercdh](https://www.youtube.com/channel/UCND1KVdVt8A580SjdaS4cZg)
 * [MalwareAnalysisForHedgehogs](https://www.youtube.com/channel/UCVFXrUwuWxNlm6UNZtBLJ-A)
-* [nasm - RE (French)](https://www.youtube.com/c/nasmRE)
-
 
 ## Practice
 
