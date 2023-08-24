@@ -94,8 +94,6 @@ A curated list of reverse engineering resources
 
 * [Crackmes.one](http://www.crackmes.one/)
 * [OSX Crackmes](https://reverse.put.as/crackmes/)
-* [ESET Challenges](http://www.joineset.com/jobs-analyst.html)
-* [Flare-on Challenges](http://flare-on.com/)
 * [Github CTF Archives](http://github.com/ctfs/)
 * [Reverse Engineering Challenges](http://challenges.re/)
 * [xorpd Advanced Assembly Exercises](http://www.xorpd.net/pages/xchg_rax/snip_00.html)
