@@ -199,6 +199,7 @@ This curated list of reverse engineering resources started as awesome-reversing 
 * [Frida](https://frida.re/)
 * [BluePill](https://github.com/season-lab/bluepill) - Analysis and debugging of evasive malware and protected executables
 * [Dexcalibur](https://github.com/FrenchYeti/dexcalibur)
+* [GDB step by step introduction](https://www.geeksforgeeks.org/gdb-step-by-step-introduction/) - A solid intro to the GNU De Bugger tool aimed at total beginners.
 
 ## Debugging
 
