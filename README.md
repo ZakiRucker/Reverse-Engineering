@@ -17,10 +17,20 @@ This curated list of reverse engineering resources started as awesome-reversing 
 ## Environment
 *Creating a safe space to hone your skills*
 
+Not every file is safe to run in your envioronment take steps to ensure your machine and network are protected.
+* [Proxmox](https://www.proxmox.com/en/proxmox-virtual-environment/overview)
+* [VirtualBox](https://www.virtualbox.org)
+* [VMware](https://www.vmware.com/products/workstation-pro.html)
+* [Cuckoo Sandbox](https://cuckoosandbox.org)
+
 ## Characteristics
 *What is this thing?*
 
-* Built-In Utilities: md5sum, shasum, file
+Become accustomed to trying to determine something about the file before you run it.
+* Built-In utilities to consider:
+* [md5](https://www.commandlinux.com/man-page/man3/md5.3bsd.html)
+* [shasum](https://www.commandlinux.com/man-page/man1/shasum.1.html)
+* [file](https://www.commandlinux.com/man-page/man1/file.1.html)
 
 ## Static Analysis
 *Peeking in the medicine cabinet*
