@@ -27,7 +27,6 @@ Not every file is safe to run in your envioronment take steps to ensure your mac
 *What is this thing?*
 
 Become accustomed to trying to determine something about the file before you run it.
-* Built-In utilities to consider:
 * [md5](https://www.commandlinux.com/man-page/man3/md5.3bsd.html)
 * [shasum](https://www.commandlinux.com/man-page/man1/shasum.1.html)
 * [file](https://www.commandlinux.com/man-page/man1/file.1.html)
@@ -35,6 +34,7 @@ Become accustomed to trying to determine something about the file before you run
 ## Static Analysis
 *Peeking in the medicine cabinet*
 
+Be cautious to learn as much as you can before running an unknown executable on your machine.
 * [HxD](https://mh-nexus.de/en/hxd/)
 * [010 Editor](http://www.sweetscape.com/010editor/)
 * [Hex Workshop](http://www.hexworkshop.com/)
@@ -125,7 +125,7 @@ Become accustomed to trying to determine something about the file before you run
 *Do or do not, there is no try*
 
 * [Dr. Fu's Malware Analysis Tutorials](http://fumalwareanalysis.blogspot.sg/p/malware-analysis-tutorials-reverse.html)
-* [Lenas Reversing for Newbies](https://forum.tuts4you.com/files/file/1307-lenas-reversing-for-newbies/)
+* [Lena's Reversing for Newbies](https://forum.tuts4you.com/files/file/1307-lenas-reversing-for-newbies/)
 * [Open Security Training](http://opensecuritytraining.info/Training.html)
 * [Binary Auditing Training](https://github.com/Info-security/binary-auditing-training)
 * [Practical Malware Analysis](https://github.com/mikesiko/PracticalMalwareAnalysis-Labs)
@@ -161,7 +161,8 @@ Become accustomed to trying to determine something about the file before you run
 * [pefile Python Libray](https://github.com/erocarrera/pefile)
 * [ghidra ninja](https://github.com/ghidraninja/ghidra_scripts)
 * [USB reversing](https://github.com/openrazer/openrazer/wiki/Reverse-Engineering-USB-Protocol)
-* [Intel® 64 and IA-32 Architectures Software Developer Manuals](https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html) - The go to reference for Intel based assembly
+* [Intel® 64 and IA-32 Architectures Software Developer Manuals](https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html)
+*  - The go to reference for Intel based assembly
 * [Learn The Architecture - A64 instruction set architecture](https://github.com/ZakiRucker/Reverse-Engineering/files/12404652/learn_the_architecture_-_a64_instruction_set_architecture_102374_0101_02_en.pdf)
 
 #### Next level
