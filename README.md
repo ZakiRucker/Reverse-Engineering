@@ -12,6 +12,8 @@ This curated list of reverse engineering resources started as awesome-reversing 
 ## Introduction
 *Welcome to reverse engineering!*
 
+* [Assembly Language Step-by-Step](https://www.wiley.com/en-us/Assembly+Language+Step+by+Step%3A+Programming+with+Linux%2C+3rd+Edition+-p-9781118080993)
+  - This is a great text to get you reading assembly quickly
 * [Reverse Engineering for Beginners](http://beginners.re/)
 
 ## Environment
