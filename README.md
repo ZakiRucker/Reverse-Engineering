@@ -13,6 +13,8 @@ This curated list of reverse engineering resources started as awesome-reversing 
 *Welcome to reverse engineering!*
 
 * [Reverse Engineering for Beginners](http://beginners.re/)
+* [Assembly Language Step-by-Step](https://www.wiley.com/en-us/Assembly+Language+Step+by+Step%3A+Programming+with+Linux%2C+3rd+Edition+-p-9781118080993)
+   - An excellent starting point point to learn Intel based x86 assembly language
 
 ## Environment
 *Creating a safe space to hone your skills*
