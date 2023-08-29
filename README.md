@@ -14,7 +14,12 @@ This curated list of reverse engineering resources started as awesome-reversing 
 
 * [Reverse Engineering for Beginners](http://beginners.re/)
 * [Assembly Language Step-by-Step](https://www.wiley.com/en-us/Assembly+Language+Step+by+Step%3A+Programming+with+Linux%2C+3rd+Edition+-p-9781118080993)
-   - An excellent starting point point to learn Intel based x86 assembly language
+    - An excellent starting point point to learn Intel based x86 assembly language
+* [Introducing the Arm architecture](https://developer.arm.com/documentation/102404/0201/About-the-Arm-architecture?lang=en)
+* [Apple Silicon Developer Documentation](https://developer.apple.com/documentation/apple-silicon)
+* [Intel® 64 and IA-32 Architectures Software Developer Manuals](https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html)
+    - The go to reference for Intel architecture based assembly
+* [Learn The Architecture - A64 instruction set architecture](https://github.com/ZakiRucker/Reverse-Engineering/files/12404652/learn_the_architecture_-_a64_instruction_set_architecture_102374_0101_02_en.pdf)
 
 ## Environment
 *Creating a safe space to hone your skills*
@@ -163,9 +168,7 @@ Be cautious to learn as much as you can before running an unknown executable on 
 * [pefile Python Libray](https://github.com/erocarrera/pefile)
 * [ghidra ninja](https://github.com/ghidraninja/ghidra_scripts)
 * [USB reversing](https://github.com/openrazer/openrazer/wiki/Reverse-Engineering-USB-Protocol)
-* [Intel® 64 and IA-32 Architectures Software Developer Manuals](https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html)
-*  - The go to reference for Intel based assembly
-* [Learn The Architecture - A64 instruction set architecture](https://github.com/ZakiRucker/Reverse-Engineering/files/12404652/learn_the_architecture_-_a64_instruction_set_architecture_102374_0101_02_en.pdf)
+
 
 #### Next level
 *Better practice means better gains*
