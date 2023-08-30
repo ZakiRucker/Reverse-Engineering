@@ -12,6 +12,8 @@ This curated list of reverse engineering resources started as awesome-reversing 
 ## Introduction
 *Welcome to reverse engineering!*
 
+* [Learn Assembly](https://github.com/ZakiRucker/h4cker/blob/master/buffer_overflow_example/learn_assembly.md)
+      - Learing assembly will be necessary to become proficient. This is a great primer to set you up for further study.
 * [Reverse Engineering for Beginners](http://beginners.re/)
 * [Assembly Language Step-by-Step](https://www.wiley.com/en-us/Assembly+Language+Step+by+Step%3A+Programming+with+Linux%2C+3rd+Edition+-p-9781118080993)
     - An excellent starting point point to learn Intel based x86 assembly language
