@@ -12,15 +12,12 @@ This curated list of reverse engineering resources started as awesome-reversing 
 ## Introduction
 *Welcome to reverse engineering!*
 
-* [Learn Assembly](https://github.com/ZakiRucker/h4cker/blob/master/buffer_overflow_example/learn_assembly.md)
-      - Learing assembly will be necessary to become proficient. This is a great primer to set you up for further study.
+* [Learn Assembly](https://github.com/ZakiRucker/h4cker/blob/master/buffer_overflow_example/learn_assembly.md) - Learing assembly will be necessary to become proficient. This is a great primer to set you up for further study.
+* [Assembly Language Step-by-Step](https://www.wiley.com/en-us/Assembly+Language+Step+by+Step%3A+Programming+with+Linux%2C+3rd+Edition+-p-9781118080993) - An excellent starting point point to learn Intel based x86 assembly language
 * [Reverse Engineering for Beginners](http://beginners.re/)
-* [Assembly Language Step-by-Step](https://www.wiley.com/en-us/Assembly+Language+Step+by+Step%3A+Programming+with+Linux%2C+3rd+Edition+-p-9781118080993)
-    - An excellent starting point point to learn Intel based x86 assembly language
 * [Introducing the Arm architecture](https://developer.arm.com/documentation/102404/0201/About-the-Arm-architecture?lang=en)
 * [Apple Silicon Developer Documentation](https://developer.apple.com/documentation/apple-silicon)
-* [Intel® 64 and IA-32 Architectures Software Developer Manuals](https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html)
-    - The go to reference for Intel architecture based assembly
+* [Intel® 64 and IA-32 Architectures Software Developer Manuals](https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html) - The go to reference for Intel architecture based assembly
 * [Learn The Architecture - A64 instruction set architecture](https://github.com/ZakiRucker/Reverse-Engineering/files/12404652/learn_the_architecture_-_a64_instruction_set_architecture_102374_0101_02_en.pdf)
 
 ## Environment
@@ -149,7 +146,7 @@ Be cautious to learn as much as you can before running an unknown executable on 
 #### Level-up
 *Teach a student to fish*
 
-* [Crackmes.one](http://www.crackmes.one/)
+* [Crackmes.one](http://www.crackmes.one/) - Binaries of different types and difficulties to practice, along with excellent write-ups.
 * [OSX Crackmes](https://reverse.put.as/crackmes/)
 * [Github CTF Archives](http://github.com/ctfs/)
 * [Reverse Engineering Challenges](http://challenges.re/)
@@ -181,7 +178,7 @@ Be cautious to learn as much as you can before running an unknown executable on 
 *Take your experience to the next level*
 
 * Use a tool from a company like 1BitSquared and pull the firmware off of an embedded device and reverse engineer that.
-* [1BitSquared](https://1bitsquared.com)
+* [1BitSquared](https://1bitsquared.com) - Tools to read JTAGs and interface with embedded devices.
 
 ## Resources
 *Where to go for more information*
@@ -190,8 +187,7 @@ Be cautious to learn as much as you can before running an unknown executable on 
 * [Reversing: Secrets of Reverse Engineering](https://www.wiley.com/en-us/Reversing%3A+Secrets+of+Reverse+Engineering+-p-9780764574818)
 * [Gray Hat Hacking](https://www.accessengineeringlibrary.com/content/book/9781264268948)
 * [The Art of Memory Forensics](https://www.wiley.com/en-us/The+Art+of+Memory+Forensics:+Detecting+Malware+and+Threats+in+Windows,+Linux,+and+Mac+Memory-p-9781118825099)
-* [Hacking: The Art of Exploitation](https://nostarch.com/hacking2.htm)
-  - This book has a section on assembly language which I found extremely helpful to understand the basics.
+* [Hacking: The Art of Exploitation](https://nostarch.com/hacking2.htm) - This book has a section on assembly language which I found extremely helpful to understand the basics.
 * [Fuzzing for Software Security](https://us.artechhouse.com/Fuzzing-for-Software-Security-Testing-and-Quality-Assurance-Second-Edition-P1930.aspx)
 * [Art of Software Security Assessment](http://amzn.com/0321444426)
 * [The Antivirus Hacker's Handbook](https://www.wiley.com/en-us/The+Antivirus+Hacker%27s+Handbook-p-9781119028789)
