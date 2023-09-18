@@ -23,7 +23,7 @@ This curated list of reverse engineering resources started as awesome-reversing 
 ## Environment
 *Creating a safe space to hone your skills*
 
-Not every file is safe to run in your envioronment take steps to ensure your machine and network are protected.
+Not every file is safe to run in your environment take steps to ensure your machine and network are protected.
 * [Proxmox](https://www.proxmox.com/en/proxmox-virtual-environment/overview)
 * [VirtualBox](https://www.virtualbox.org)
 * [VMware](https://www.vmware.com/products/workstation-pro.html)
