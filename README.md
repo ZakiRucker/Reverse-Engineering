@@ -13,7 +13,7 @@ This curated list of reverse engineering resources started as awesome-reversing 
 *Welcome to reverse engineering!*
 
 * [Learn Assembly](https://github.com/ZakiRucker/h4cker/blob/master/buffer_overflow_example/learn_assembly.md) - Learing assembly will be necessary to become proficient. This is a great primer to set you up for further study.
-* [Assembly Language Step-by-Step](https://www.wiley.com/en-us/Assembly+Language+Step+by+Step%3A+Programming+with+Linux%2C+3rd+Edition+-p-9781118080993) - An excellent starting point point to learn Intel based 32 bit architecture x86 assembly language. Wiley is due to publish the 4th edition in October. 
+* [Assembly Language Step-by-Step](https://www.wiley.com/en-us/Assembly+Language+Step+by+Step%3A+Programming+with+Linux%2C+3rd+Edition+-p-9781118080993) - An excellent starting point point to learn Intel based 32 bit architecture x86 assembly language. Wiley has released the [4th edition](https://www.wiley.com/en-us/x64+Assembly+Language+Step+by+Step%3A+Programming+with+Linux%2C+4th+Edition-p-9781394155255) based on x64 architecture. 
 * [Reverse Engineering for Beginners](http://beginners.re/)
 * [Introducing the Arm architecture](https://developer.arm.com/documentation/102404/0201/About-the-Arm-architecture?lang=en)
 * [Apple Silicon Developer Documentation](https://developer.apple.com/documentation/apple-silicon)
