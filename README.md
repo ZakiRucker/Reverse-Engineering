@@ -126,6 +126,7 @@ Be cautious to learn as much as you can before running an unknown executable on 
 * [The Beginner's Guide to IDA Python](https://leanpub.com/IDAPython-Book)
 * [Assembly Language for Intel-Based Computers (5th Edition) ](https://www.goodreads.com/book/show/7646341-assembly-language-for-intel-based-computers)
 * [Hacker Disassembly Uncovered](https://www.goodreads.com/book/show/435687.Hacker_Disassembling_Uncovered?ac=1&from_search=true&qid=HUNC0IiiY0&rank=1)
+* [BugProve](https://bugprove.com) Jaw dropping tool to highlight vulnerabilities in binaries. I dare you to upload your router firmware.
     
 ## Practice
 *Do or do not, there is no try*
