@@ -173,6 +173,8 @@ Be cautious to learn as much as you can before running an unknown executable on 
 *Better practice means better gains*
 
 * Write your own programs in C or C++ then reverse engineer them. This practice has the added effect of making you a better programmer.
+* [Compiler Explorer](https://godbolt.org) - This nifty tool lets you write out some code in a variety of higher level languages and see them in various compilers in a side-by-side view.
+* [Decompiler Explorer](https://dogbolt.org) - This gem lets you upload a binary and view it side-by-side in multiple decompilers to compare the results.
 
 #### Are you up for a greater challenge?
 *Take your experience to the next level*
